@@ -37,3 +37,8 @@ Where custom-size-config can take any value that is valid on the background-size
 
 ---?image=path/to/image.file&size=auto 90%
 
+#Video
+![Video](https://www.youtube.com/embed/RNwgDQgIiS4?autoplay=1)
+#Slide Background Videos
+---?video=https://www.youtube.com/embed/RNwgDQgIiS4?autoplay=1
+
